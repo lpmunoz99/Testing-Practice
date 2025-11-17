@@ -1,0 +1,1 @@
+This is the eleventh project of Javascript curriculum through The Odin Project, where knowledge of TDD with jest is solidified.
